@@ -47,7 +47,7 @@ corrida = () => {
     if (correndo) {
         if (isFim()) {
             correndo = false;
-            divTxtBaixo.innerHTML += 'Fim da corrida, cor ' + vencedor() + ' venceu!';
+            divTxtBaixo.innerHTML = 'Fim da corrida, cor ' + vencedor() + ' venceu!';
         } else {
             movimentacao();
         }
