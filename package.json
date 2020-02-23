@@ -1,0 +1,15 @@
+{
+  "name": "corrida",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:BrunoBatalha/corrida.git",
+  "author": "Bruno Batalha <brunobatalha37@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
+  },
+  "scripts": {
+    "start": "some command to be run"
+  }
+}
