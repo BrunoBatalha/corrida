@@ -10,6 +10,6 @@
     "express-handlebars": "^3.1.0"
   },
   "scripts": {
-    "start": "some command to be run"
+    "start": "node ./index.js"
   }
 }
